@@ -1,2 +1,2 @@
 # programming
-Im learning programming in kotlin,Java and Go
+Im learning programming in kotlin, Java and Go
